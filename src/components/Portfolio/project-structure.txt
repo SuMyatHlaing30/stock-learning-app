@@ -1,0 +1,31 @@
+stock-learning-app/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── api/
+│   │   ├── stockApi.js         # API calls to stock data services
+│   │   └── portfolioApi.js     # Local storage for portfolio data
+│   ├── components/
+│   │   ├── Dashboard/          # Main dashboard components
+│   │   ├── StockScreener/      # Stock screening components
+│   │   ├── Portfolio/          # Portfolio tracking components
+│   │   ├── Analysis/           # Technical analysis components
+│   │   ├── common/             # Reusable components like charts
+│   │   └── Layout/             # App layout components
+│   ├── pages/
+│   │   ├── DashboardPage.js    # Main dashboard page
+│   │   ├── ScreenerPage.js     # Stock screener page
+│   │   ├── PortfolioPage.js    # Portfolio tracker page
+│   │   ├── AnalysisPage.js     # Analysis tools page
+│   │   └── LearnPage.js        # Educational resources page
+│   ├── utils/
+│   │   ├── calculations.js     # Stock calculations
+│   │   └── formatters.js       # Data formatting helpers
+│   ├── context/
+│   │   └── StockContext.js     # Stock data context
+│   ├── App.js                  # Main App component
+│   ├── index.js                # Entry point
+│   └── styles.css              # Global styles
+├── package.json
+└── README.md
