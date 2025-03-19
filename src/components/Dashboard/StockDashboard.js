@@ -62,7 +62,8 @@ const StockDashboard = () => {
     if (watchlist.length > 0) {
       handleStockSelect(watchlist[0]);
     }
-  }, []);
+  }, [watchlist, handleStockSelect]); // Add the dependencies
+  
   
   return (
     <div className="stock-dashboard">
