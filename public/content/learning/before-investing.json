@@ -1,0 +1,46 @@
+{
+  "id": "before_investing",
+  "title": "Steps to Take Before Investing",
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "prerequisites": ["what_is_stock", "why_invest", "market_basics"],
+  "content": "<h2>Important Steps Before You Start Investing</h2><div class=\"simple-explanation\"><p>Before jumping into the stock market, there are several financial foundations you should establish. These steps will put you in a stronger position to invest successfully and reduce unnecessary risks.</p></div><h3>Your Financial Checklist</h3><ol><li><strong>Create an Emergency Fund</strong><p>Set aside 3-6 months of essential expenses in a readily accessible account (like a high-yield savings account). This protects you from having to sell investments at a bad time if you face unexpected expenses.</p></li><li><strong>Pay Off High-Interest Debt</strong><p>Focus on paying off debts with interest rates above 7-8% (like credit cards) before investing significantly. The interest you save is a guaranteed return, often higher than potential investment returns.</p></li><li><strong>Understand Your Financial Goals</strong><p>Define what you're investing for and when you'll need the money:</p><ul><li>Short-term goals (1-3 years): Generally not ideal for stock investing</li><li>Medium-term goals (3-10 years): May include some stocks in a balanced approach</li><li>Long-term goals (10+ years): Often well-suited for stock investing</li></ul></li><li><strong>Assess Your Risk Tolerance</strong><p>Be honest about how much market volatility you can handle emotionally. Consider:</p><ul><li>Your investment timeframe</li><li>Your financial security</li><li>Your experience with investing</li><li>How you'd react to a 20-30% market drop</li></ul></li></ol><h3>Setting Realistic Expectations</h3><ul><li>Stock investing is a long-term activity (think 5+ years minimum)</li><li>Short-term market movements are unpredictable</li><li>Expect periods of significant market declines</li><li>Historically, the stock market has recovered from every downturn</li><li>Past performance doesn't guarantee future results</li></ul><h3>Common Beginner Mistakes to Avoid</h3><ul><li><strong>Investing money you'll need soon</strong>: Only invest funds you won't need for several years</li><li><strong>Trying to time the market</strong>: Even professionals rarely succeed at this</li><li><strong>Checking portfolio too frequently</strong>: This can lead to emotional decisions</li><li><strong>Putting all your money in at once</strong>: Consider dollar-cost averaging (investing regularly over time)</li><li><strong>Investing before learning basics</strong>: Take time to understand the fundamentals first</li></ul><h3>Your Starting Budget</h3><p>Start with what you're comfortable with, but consider that:</p><ul><li>You can begin with as little as $25-$100</li><li>Regular investments (even small ones) add up over time</li><li>Consider automating your investments</li></ul><div class=\"callout\"><p><strong>Remember</strong>: Building a solid financial foundation before investing increases your chances of long-term success. It allows you to stay invested during market downturns rather than being forced to sell at the worst times.</p></div>",
+  "image": "/images/learning/financial-foundation.jpg",
+  "glossaryTerms": ["emergency fund", "risk tolerance", "dollar-cost averaging", "time horizon", "market timing"],
+  "quiz": [
+    {
+      "question": "Why is having an emergency fund important before investing?",
+      "options": [
+        "It increases your stock market returns",
+        "It prevents you from having to sell investments at a bad time to cover unexpected expenses",
+        "It's required by brokerages to open an account",
+        "It allows you to buy more expensive stocks"
+      ],
+      "correctIndex": 1,
+      "explanation": "An emergency fund provides financial security so you don't have to sell investments at potentially unfavorable times to cover unexpected expenses."
+    },
+    {
+      "question": "Which type of debt should generally be paid off before investing significantly?",
+      "options": [
+        "Mortgage debt",
+        "Auto loans",
+        "Student loans with 3% interest",
+        "Credit card debt with 18% interest"
+      ],
+      "correctIndex": 3,
+      "explanation": "High-interest debt like credit cards (typically 15-25% interest) should be prioritized because the interest you save by paying it off is likely higher than your potential investment returns."
+    },
+    {
+      "question": "What timeframe is generally considered appropriate for stock investing?",
+      "options": [
+        "1-6 months",
+        "1-2 years",
+        "5+ years",
+        "30-60 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stock investing is generally most appropriate for longer time horizons (5+ years) due to short-term market volatility."
+    }
+  ],
+  "nextTopic": "investment_accounts"
+}

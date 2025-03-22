@@ -1,0 +1,46 @@
+{
+  "id": "understanding_risk",
+  "title": "Understanding Investment Risk",
+  "difficulty": "beginner",
+  "estimatedMinutes": 12,
+  "prerequisites": ["first_stock_purchase"],
+  "content": "<h2>Understanding Investment Risk</h2><div class=\"simple-explanation\"><p>Investment risk is the possibility that you might lose money or earn less than expected. Understanding different types of risk and how to manage them is crucial for any investor.</p></div><h3>Types of Investment Risk</h3><h4>Market Risk</h4><ul><li><strong>What It Is</strong>: The risk that the entire market or asset class declines in value</li><li><strong>Example</strong>: During the 2008 financial crisis, almost all stocks fell regardless of company quality</li><li><strong>Managing It</strong>: Diversify across different asset classes (stocks, bonds, real estate, etc.)</li></ul><h4>Company-Specific Risk</h4><ul><li><strong>What It Is</strong>: Risk specific to an individual company</li><li><strong>Example</strong>: A major product recall, CEO scandal, or failed business strategy</li><li><strong>Managing It</strong>: Diversify across multiple companies and sectors</li></ul><h4>Sector Risk</h4><ul><li><strong>What It Is</strong>: Risk affecting a specific industry or sector</li><li><strong>Example</strong>: New regulations impacting healthcare companies or oil price drops affecting energy stocks</li><li><strong>Managing It</strong>: Diversify across different sectors</li></ul><h4>Inflation Risk</h4><ul><li><strong>What It Is</strong>: The risk that inflation erodes your purchasing power</li><li><strong>Example</strong>: If inflation is 3% but your investment returns only 2%, you're losing purchasing power</li><li><strong>Managing It</strong>: Invest in assets that historically outpace inflation (like stocks)</li></ul><h4>Interest Rate Risk</h4><ul><li><strong>What It Is</strong>: The risk that changing interest rates will affect investment values</li><li><strong>Example</strong>: When interest rates rise, bond prices typically fall</li><li><strong>Managing It</strong>: Ladder bond maturities, consider floating-rate securities</li></ul><h4>Liquidity Risk</h4><ul><li><strong>What It Is</strong>: The risk that you can't sell an investment when you want without a significant loss</li><li><strong>Example</strong>: Certain real estate investments or very small company stocks</li><li><strong>Managing It</strong>: Focus on widely-traded securities for most of your portfolio</li></ul><h3>Understanding Risk vs. Reward</h3><p>Generally, higher potential returns come with higher risks. The relationship looks roughly like this:</p><ul><li><strong>Lower Risk, Lower Potential Return</strong>: Cash, Treasury bonds, CDs</li><li><strong>Medium Risk, Medium Potential Return</strong>: Corporate bonds, balanced funds, blue-chip stocks</li><li><strong>Higher Risk, Higher Potential Return</strong>: Small company stocks, emerging markets, specialized sectors</li></ul><h3>Key Risk Management Strategies</h3><h4>1. Diversification</h4><p>The principle of not putting all your eggs in one basket. Diversify across:</p><ul><li>Different companies</li><li>Various sectors/industries</li><li>Multiple asset classes</li><li>Geographic regions</li></ul><h4>2. Asset Allocation</h4><p>Determining the right mix of stocks, bonds, and other assets based on:</p><ul><li>Your age and time horizon</li><li>Financial goals</li><li>Risk tolerance</li></ul><p>A common rule of thumb: Subtract your age from 110 to get a rough stock percentage (e.g., a 30-year-old might have about 80% in stocks, 20% in bonds).</p><h4>3. Dollar-Cost Averaging</h4><p>Investing a fixed amount at regular intervals, which means you automatically buy:</p><ul><li>More shares when prices are low</li><li>Fewer shares when prices are high</li></ul><p>This helps reduce the impact of market volatility and timing risk.</p><h4>4. Long-Term Perspective</h4><p>Historical data shows that:</p><ul><li>Stock market volatility decreases over longer time periods</li><li>The probability of positive returns increases with time</li><li>Short-term market movements are largely unpredictable</li></ul><h3>Assessing Your Personal Risk Tolerance</h3><p>Consider these factors:</p><ol><li><strong>Time Horizon</strong>: Longer time horizons can typically handle more risk</li><li><strong>Financial Stability</strong>: Secure income and emergency savings allow for more risk</li><li><strong>Emotional Comfort</strong>: How well you sleep during market downturns</li><li><strong>Financial Goals</strong>: What you're investing for and when you'll need the money</li></ol><div class=\"callout\"><p><strong>Key Takeaway</strong>: Risk cannot be eliminated, but it can be managed. The goal is not to avoid risk entirely but to take appropriate risks for your situation while using smart risk management strategies.</p></div>",
+  "image": "/images/learning/risk-reward.jpg",
+  "glossaryTerms": ["diversification", "asset allocation", "volatility", "risk tolerance", "dollar-cost averaging"],
+  "quiz": [
+    {
+      "question": "What is diversification in investing?",
+      "options": [
+        "Buying stocks only when the market is going up",
+        "Investing the same amount of money each month",
+        "Spreading investments across different assets to reduce risk",
+        "Selling investments that have decreased in value"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diversification is the strategy of spreading your investments across different assets, sectors, and geographies to reduce overall risk. It's based on the principle of not putting all your eggs in one basket."
+    },
+    {
+      "question": "Which type of risk affects all stocks in the market regardless of company quality?",
+      "options": [
+        "Company-specific risk",
+        "Market risk",
+        "Sector risk",
+        "Liquidity risk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Market risk (also called systematic risk) affects the entire market and cannot be eliminated through diversification within the stock market. It's the risk that the entire market will decline, as happened during major market downturns."
+    },
+    {
+      "question": "Generally, what is the relationship between risk and potential return?",
+      "options": [
+        "Lower risk investments typically offer higher potential returns",
+        "Risk and potential return usually have no relationship",
+        "Higher risk investments typically offer higher potential returns",
+        "The relationship varies randomly from year to year"
+      ],
+      "correctIndex": 2,
+      "explanation": "In investing, higher risk is generally associated with higher potential returns. This is why stocks (higher risk) have historically provided higher returns than bonds or cash (lower risk) over long time periods."
+    }
+  ],
+  "nextTopic": "fundamental_analysis"
+}

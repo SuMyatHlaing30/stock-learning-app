@@ -1,0 +1,47 @@
+{
+  "id": "first_stock_purchase",
+  "title": "Making Your First Stock Purchase",
+  "difficulty": "beginner",
+  "estimatedMinutes": 15,
+  "prerequisites": ["investment_accounts"],
+  "content": "<h2>How to Make Your First Stock Purchase</h2><div class=\"simple-explanation\"><p>Buying your first stock might seem intimidating, but the process is straightforward once you understand the steps. This guide will walk you through the process from research to execution.</p></div><h3>Step 1: Choose What to Buy</h3><p>For beginners, these options are often recommended:</p><h4>Individual Stocks</h4><ul><li><strong>Pros</strong>: Potential for higher returns, ownership in specific companies you believe in</li><li><strong>Cons</strong>: Higher risk, requires more research and monitoring</li><li><strong>Beginner-Friendly Approach</strong>: Start with established companies you understand and use their products/services</li></ul><h4>ETFs (Exchange-Traded Funds)</h4><ul><li><strong>Pros</strong>: Instant diversification, lower risk, simple to understand</li><li><strong>Cons</strong>: May not outperform individual stock picks</li><li><strong>Beginner-Friendly Options</strong>:<ul><li>S&P 500 ETFs (e.g., VOO, SPY, IVV)</li><li>Total Stock Market ETFs (e.g., VTI, ITOT)</li><li>Sector ETFs for industries you understand</li></ul></li></ul><div class=\"callout\"><p><strong>Recommendation for Beginners</strong>: Consider starting with a broad market ETF for your first purchase. This gives you exposure to the overall market with a single purchase.</p></div><h3>Step 2: Research Before Buying</h3><h4>For ETFs, Check:</h4><ul><li>Expense ratio (lower is better)</li><li>Assets under management (larger is generally better)</li><li>Trading volume (higher means better liquidity)</li><li>Holdings (what stocks are in the ETF)</li><li>Historical performance (though past performance doesn't guarantee future results)</li></ul><h4>For Individual Stocks, Research:</h4><ul><li>The company's business model and products</li><li>Recent financial performance (revenue and earnings growth)</li><li>Competitive advantages</li><li>Management team</li><li>Valuation metrics (P/E ratio, etc.)</li><li>Risks and challenges</li></ul><h3>Step 3: Decide How Much to Invest</h3><ul><li>Only invest money you won't need for at least 3-5 years</li><li>Start small while you're learning ($100-500 is fine for beginners)</li><li>Consider dollar-cost averaging (investing a fixed amount regularly)</li><li>Avoid investing all your money at once</li></ul><h3>Step 4: Choose an Order Type</h3><h4>Market Order</h4><ul><li><strong>What It Is</strong>: Buy or sell at the current market price</li><li><strong>Best For</strong>: Most beginners, highly liquid stocks and ETFs</li><li><strong>Caution</strong>: The execution price may differ slightly from the last quoted price</li></ul><h4>Limit Order</h4><ul><li><strong>What It Is</strong>: Buy or sell only at your specified price or better</li><li><strong>Best For</strong>: When you have a specific price in mind</li><li><strong>Caution</strong>: The order may not execute if the market doesn't reach your price</li></ul><h3>Step 5: Place Your Order</h3><ol><li>Log in to your brokerage account</li><li>Search for the stock or ETF by name or ticker symbol</li><li>Select 'Buy' (or 'Trade' then 'Buy')</li><li>Enter the number of shares or dollar amount you want to invest</li><li>Select your order type (usually 'Market' for beginners)</li><li>Review the order details carefully</li><li>Submit your order</li></ol><h3>Step 6: After Your Purchase</h3><ul><li>Keep records of your purchase (price, date, number of shares)</li><li>Don't check the price obsessively</li><li>Have a plan for how long you intend to hold</li><li>Consider setting up regular, automatic investments</li></ul><h3>Common First-Time Investor Mistakes</h3><ul><li><strong>Expecting immediate profits</strong>: Stock investing is a long-term activity</li><li><strong>Panic selling</strong> when the market drops</li><li><strong>Checking your investments too frequently</strong></li><li><strong>Overreacting to short-term news</strong></li><li><strong>Not having a plan</strong> for why you bought and when you might sell</li></ul><div class=\"callout\"><p><strong>Remember</strong>: Your first investment is a learning experience. Start small, learn from the process, and gradually increase your investments as you gain confidence and knowledge.</p></div>",
+  "image": "/images/learning/first-stock-purchase.jpg",
+  "interactiveDemo": "trading_simulator",
+  "glossaryTerms": ["ETF", "market order", "limit order", "ticker symbol", "execution price", "dollar-cost averaging"],
+  "quiz": [
+    {
+      "question": "What makes ETFs often suitable for beginning investors?",
+      "options": [
+        "They always outperform individual stocks",
+        "They provide instant diversification with a single purchase",
+        "They're guaranteed not to lose value",
+        "They're only available to new investors"
+      ],
+      "correctIndex": 1,
+      "explanation": "ETFs provide instant diversification by containing many different stocks in a single investment, which helps reduce risk compared to buying individual stocks."
+    },
+    {
+      "question": "What is the difference between a market order and a limit order?",
+      "options": [
+        "Market orders are free, while limit orders cost a fee",
+        "Market orders are for selling stocks, while limit orders are for buying",
+        "Market orders execute at the current market price, while limit orders only execute at your specified price or better",
+        "Market orders are for domestic stocks, while limit orders are for international stocks"
+      ],
+      "correctIndex": 2,
+      "explanation": "A market order executes immediately at the current best available market price, while a limit order will only execute at the price you specify (or better)."
+    },
+    {
+      "question": "What is a recommended approach for beginners making their first stock purchase?",
+      "options": [
+        "Invest all available money at once to maximize potential returns",
+        "Buy several high-risk stocks for the best growth opportunity",
+        "Start with a small amount in a broad market ETF or established company you understand",
+        "Wait until the market is going down to get the best prices"
+      ],
+      "correctIndex": 2,
+      "explanation": "For beginners, starting with a small amount in a broad market ETF or established, familiar company provides a good learning experience with manageable risk."
+    }
+  ],
+  "nextTopic": "understanding_risk"
+}

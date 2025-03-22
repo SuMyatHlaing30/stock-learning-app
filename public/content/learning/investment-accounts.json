@@ -1,0 +1,46 @@
+{
+  "id": "investment_accounts",
+  "title": "Understanding Investment Accounts",
+  "difficulty": "beginner",
+  "estimatedMinutes": 12,
+  "prerequisites": ["before_investing"],
+  "content": "<h2>Investment Account Types Explained</h2><div class=\"simple-explanation\"><p>Before you can buy stocks, you need an investment account. Different account types offer various tax advantages and restrictions, so choosing the right one is an important step in your investing journey.</p></div><h3>Main Types of Investment Accounts</h3><h4>Taxable Brokerage Accounts</h4><ul><li><strong>Description</strong>: General-purpose investment accounts with no special tax advantages</li><li><strong>Key Features</strong>:<ul><li>No limits on contributions</li><li>No penalties for withdrawals</li><li>No age restrictions</li><li>Complete flexibility for any investment goal</li></ul></li><li><strong>Tax Considerations</strong>:<ul><li>Pay taxes on dividends and interest each year</li><li>Pay capital gains tax when you sell investments at a profit</li><li>Long-term capital gains (investments held over 1 year) are taxed at lower rates</li></ul></li><li><strong>Best For</strong>: General investing, medium-term goals, funds you might need before retirement</li></ul><h4>Tax-Advantaged Retirement Accounts</h4><h5>Traditional IRA / 401(k)</h5><ul><li><strong>Description</strong>: Retirement accounts with upfront tax benefits</li><li><strong>Key Features</strong>:<ul><li>Contributions may be tax-deductible</li><li>Investment growth is tax-deferred</li><li>Contribution limits apply ($6,500 for IRA, $22,500 for 401(k) in 2023, higher for those over 50)</li><li>Early withdrawal penalties before age 59½ (with some exceptions)</li><li>Required minimum distributions (RMDs) after age 73</li></ul></li><li><strong>Tax Considerations</strong>:<ul><li>Pay no taxes until you withdraw money in retirement</li><li>Withdrawals are taxed as ordinary income</li></ul></li><li><strong>Best For</strong>: Long-term retirement savings, especially if you expect to be in a lower tax bracket in retirement</li></ul><h5>Roth IRA / Roth 401(k)</h5><ul><li><strong>Description</strong>: Retirement accounts with back-end tax benefits</li><li><strong>Key Features</strong>:<ul><li>Contributions are made with after-tax money</li><li>Same contribution limits as traditional accounts</li><li>Early withdrawal penalties on earnings (but not contributions) before age 59½</li><li>No required minimum distributions for Roth IRAs (Roth 401(k)s do have RMDs)</li></ul></li><li><strong>Tax Considerations</strong>:<ul><li>No tax deduction for contributions</li><li>Investment growth is tax-free</li><li>Qualified withdrawals in retirement are completely tax-free</li></ul></li><li><strong>Best For</strong>: Long-term retirement savings, especially if you expect to be in a higher tax bracket in retirement</li></ul><h4>Specialized Accounts</h4><ul><li><strong>529 Plans</strong>: Tax-advantaged accounts for education expenses</li><li><strong>HSAs</strong>: Health Savings Accounts offer triple tax advantages for medical expenses</li><li><strong>UGMA/UTMA</strong>: Custodial accounts for minors</li></ul><h3>How to Choose the Right Account Type</h3><h4>Consider These Factors:</h4><ol><li><strong>Investment Goal</strong>: What are you saving for?</li><li><strong>Time Horizon</strong>: When will you need the money?</li><li><strong>Tax Situation</strong>: What's your current and expected future tax bracket?</li><li><strong>Need for Flexibility</strong>: Might you need the money before retirement?</li><li><strong>Employer Benefits</strong>: Does your employer offer 401(k) matching?</li></ol><h4>Recommended Approach for Beginners:</h4><ol><li><strong>First Priority</strong>: 401(k) up to employer match (if available)</li><li><strong>Second Priority</strong>: Roth IRA (if eligible)</li><li><strong>Third Priority</strong>: Additional 401(k) contributions</li><li><strong>Fourth Priority</strong>: Taxable brokerage account</li></ol><h3>Opening an Investment Account</h3><p>To open an account, you'll need:</p><ul><li>Personal information (SSN, address, date of birth)</li><li>Employment information</li><li>Banking information (for transfers)</li><li>Basic financial information</li></ul><p>Popular brokerages include:</p><ul><li>Fidelity</li><li>Charles Schwab</li><li>Vanguard</li><li>TD Ameritrade</li><li>Robinhood</li><li>E*TRADE</li></ul><div class=\"callout\"><p><strong>Key Takeaway</strong>: For most beginners, starting with a retirement account (401(k) and/or Roth IRA) is advisable because of the tax advantages. Add a taxable brokerage account when you have additional funds to invest or need more flexibility.</p></div>",
+  "image": "/images/learning/account-types.jpg",
+  "glossaryTerms": ["IRA", "401(k)", "Roth", "capital gains", "tax-deferred", "brokerage account"],
+  "quiz": [
+    {
+      "question": "What is the main advantage of a Roth IRA compared to a Traditional IRA?",
+      "options": [
+        "Higher contribution limits",
+        "Tax-free qualified withdrawals in retirement",
+        "Immediate tax deductions",
+        "No early withdrawal penalties"
+      ],
+      "correctIndex": 1,
+      "explanation": "With a Roth IRA, qualified withdrawals in retirement are completely tax-free, which can be a significant advantage if your tax rate is higher in retirement."
+    },
+    {
+      "question": "Why might someone choose a taxable brokerage account over a retirement account?",
+      "options": [
+        "For better investment options",
+        "For higher returns",
+        "For tax advantages",
+        "For greater flexibility and no withdrawal restrictions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Taxable brokerage accounts offer complete flexibility with no restrictions on when you can withdraw your money, unlike retirement accounts which typically have age-based withdrawal restrictions."
+    },
+    {
+      "question": "What is typically the recommended first priority for retirement investing?",
+      "options": [
+        "Maximize Roth IRA contributions",
+        "Contribute to a taxable brokerage account",
+        "Contribute to a 401(k) up to the employer match",
+        "Pay off your mortgage"
+      ],
+      "correctIndex": 2,
+      "explanation": "Contributing to a 401(k) up to your employer's match is typically recommended as the first priority because the match is essentially free money - an immediate 50-100% return on your investment."
+    }
+  ],
+  "nextTopic": "first_stock_purchase"
+}

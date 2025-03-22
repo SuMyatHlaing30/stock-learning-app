@@ -1,0 +1,52 @@
+{
+  "beginner_path": {
+    "id": "beginner_path",
+    "name": "Stock Market Fundamentals",
+    "description": "Start here if you're new to stock investing. Learn the basics from scratch with simple explanations and practical examples.",
+    "image": "/images/paths/beginner-path.jpg",
+    "modules": [
+  "what_is_stock",
+  "why_invest",
+  "market_basics",
+  "before_investing",
+  "investment_accounts",
+  "first_stock_purchase",
+  "understanding_risk"
+],
+    "estimatedHours": 4,
+    "difficulty": "beginner"
+  },
+  "intermediate_path": {
+    "id": "intermediate_path",
+    "name": "Practical Investing Strategies",
+    "description": "For those who understand the basics and want to develop more effective investing approaches.",
+    "image": "/images/paths/intermediate-path.jpg",
+    "modules": [
+      "fundamental_analysis",
+      "technical_analysis",
+      "portfolio_building",
+      "diversification",
+      "value_investing",
+      "growth_investing",
+      "dividend_strategy"
+    ],
+    "estimatedHours": 6,
+    "difficulty": "intermediate"
+  },
+  "psychology_path": {
+    "id": "psychology_path",
+    "name": "Investor Psychology",
+    "description": "Learn about the psychological aspects of investing and how to make better decisions by managing emotions.",
+    "image": "/images/paths/psychology-path.jpg",
+    "modules": [
+      "behavioral_biases",
+      "emotional_control",
+      "fomo_investing",
+      "discipline_strategies",
+      "risk_tolerance",
+      "long_term_thinking"
+    ],
+    "estimatedHours": 3,
+    "difficulty": "all-levels"
+  }
+}

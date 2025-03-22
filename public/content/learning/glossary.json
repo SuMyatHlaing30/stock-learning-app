@@ -1,0 +1,172 @@
+{
+  "terms": [
+    {
+      "term": "Stock",
+      "definition": "A type of security that represents ownership in a corporation. When you buy a stock, you're purchasing a small piece of that company."
+    },
+    {
+      "term": "Share",
+      "definition": "A single unit of ownership in a company. If a company has 1 million shares outstanding and you own 10 shares, you own 0.001% of the company."
+    },
+    {
+      "term": "Dividend",
+      "definition": "A portion of a company's earnings that is paid to shareholders, usually in the form of cash payments."
+    },
+    {
+      "term": "Market Capitalization",
+      "definition": "The total dollar value of a company's outstanding shares, calculated by multiplying the share price by the number of shares outstanding."
+    },
+    {
+      "term": "Bull Market",
+      "definition": "A market condition in which prices are rising or expected to rise. This typically indicates optimism and investor confidence."
+    },
+    {
+      "term": "Bear Market",
+      "definition": "A market condition in which prices are falling or expected to fall. This typically indicates pessimism and investor fear."
+    },
+    {
+      "term": "P/E Ratio",
+      "definition": "Price-to-Earnings ratio. A valuation measure that compares a company's current share price to its earnings per share (EPS). A high P/E may indicate a stock is overvalued or that investors expect high growth."
+    },
+    {
+      "term": "EPS",
+      "definition": "Earnings Per Share. The portion of a company's profit allocated to each outstanding share of common stock. It's a key indicator of a company's profitability."
+    },
+    {
+      "term": "Stock Exchange",
+      "definition": "A marketplace where stocks, bonds, and other securities are bought and sold. Major exchanges include the New York Stock Exchange (NYSE) and NASDAQ."
+    },
+    {
+      "term": "ETF",
+      "definition": "Exchange-Traded Fund. A type of investment fund that trades on stock exchanges, much like stocks. ETFs typically track an index, sector, commodity, or other asset."
+    },
+    {
+      "term": "Index",
+      "definition": "A measurement of the value of a section of the stock market. Common indexes include the S&P 500, Dow Jones Industrial Average, and NASDAQ Composite."
+    },
+    {
+      "term": "Ticker Symbol",
+      "definition": "A unique series of letters assigned to a security for trading purposes. For example, AAPL is the ticker symbol for Apple Inc."
+    },
+    {
+      "term": "Volatility",
+      "definition": "A statistical measure of the dispersion of returns for a given security or market index. Higher volatility means the price can change dramatically over a short time period."
+    },
+    {
+      "term": "Dividend Yield",
+      "definition": "Annual dividends per share divided by the share price, expressed as a percentage. It shows how much a company pays out in dividends relative to its share price."
+    },
+    {
+      "term": "Market Order",
+      "definition": "An order to buy or sell a security immediately at the best available current price."
+    },
+    {
+      "term": "Limit Order",
+      "definition": "An order to buy or sell a security at a specific price or better. A buy limit order executes at or below the limit price, and a sell limit order executes at or above the limit price."
+    },
+    {
+      "term": "Diversification",
+      "definition": "The practice of spreading investments across various assets to reduce risk. This is based on the principle of not putting all your eggs in one basket."
+    },
+    {
+      "term": "Capital Gain",
+      "definition": "The profit earned when an investment is sold for more than its purchase price."
+    },
+    {
+      "term": "Capital Loss",
+      "definition": "The loss incurred when an investment is sold for less than its purchase price."
+    },
+    {
+      "term": "Asset Allocation",
+      "definition": "The strategy of dividing investments among different asset categories, such as stocks, bonds, and cash, based on goals, risk tolerance, and investment horizon."
+    },
+    {
+      "term": "Compound Interest",
+      "definition": "Interest calculated on the initial principal and also on the accumulated interest over previous periods. It's essentially 'interest on interest' that makes investments grow faster over time."
+    },
+    {
+      "term": "Dollar-Cost Averaging",
+      "definition": "The practice of investing a fixed amount regularly, regardless of market conditions. This results in buying more shares when prices are low and fewer when prices are high."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering. The process through which a private company offers shares to the public for the first time."
+    },
+    {
+      "term": "Liquidity",
+      "definition": "How easily an asset can be bought or sold in the market without affecting its price. Cash is the most liquid asset, while real estate is typically less liquid."
+    },
+    {
+      "term": "Margin",
+      "definition": "Borrowed money used to purchase securities. This practice magnifies both gains and losses and is considered advanced and risky."
+    },
+    {
+      "term": "Portfolio",
+      "definition": "A collection of investments owned by an individual or entity. A well-constructed portfolio is diversified across various assets."
+    },
+    {
+      "term": "Risk Tolerance",
+      "definition": "The degree of variability in investment returns that an investor is willing to withstand. Investors with high risk tolerance are generally willing to risk more money for the possibility of better returns."
+    },
+    {
+      "term": "Shareholder",
+      "definition": "An individual, company, or institution that owns at least one share of a company's stock."
+    },
+    {
+      "term": "Broker",
+      "definition": "An individual or firm that acts as an intermediary between an investor and a securities exchange, charging a commission for their services."
+    },
+    {
+      "term": "Dividend Reinvestment Plan (DRIP)",
+      "definition": "A program that allows investors to reinvest their cash dividends into additional shares of the underlying stock automatically on the dividend payment date."
+    },
+    {
+      "term": "Expense Ratio",
+      "definition": "The annual fee that mutual funds, ETFs, and index funds charge shareholders, expressed as a percentage of assets. Lower expense ratios mean you keep more of your returns."
+    },
+    {
+      "term": "Fundamental Analysis",
+      "definition": "A method of evaluating a security to measure its intrinsic value by examining related economic, financial, and other qualitative and quantitative factors."
+    },
+    {
+      "term": "Technical Analysis",
+      "definition": "A method of evaluating securities by analyzing statistics generated by market activity, such as past prices and volume. Technical analysts use charts and other tools to identify patterns."
+    },
+    {
+      "term": "Yield",
+      "definition": "The income returned on an investment, such as the interest received from holding a bond or the dividends received from owning a stock, usually expressed as an annual percentage."
+    },
+    {
+      "term": "Blue-Chip Stock",
+      "definition": "Stock from well-established companies with a history of sound financial performance. These companies typically have stable earnings and often pay dividends."
+    },
+    {
+      "term": "Growth Stock",
+      "definition": "A share in a company that is anticipated to grow at a rate significantly above the average for the market. These companies typically reinvest earnings in themselves rather than paying dividends."
+    },
+    {
+      "term": "Value Stock",
+      "definition": "A stock that appears to trade at a lower price relative to its fundamentals (like dividends, earnings, or sales), making it appealing to value investors."
+    },
+    {
+      "term": "IRA",
+      "definition": "Individual Retirement Account. A tax-advantaged investing account that individuals can use to save for retirement."
+    },
+    {
+      "term": "401(k)",
+      "definition": "A tax-advantaged retirement savings plan offered by employers. Contributions are typically made through payroll deductions, and employers may match a portion of employees' contributions."
+    },
+    {
+      "term": "Roth IRA/401(k)",
+      "definition": "A retirement account where contributions are made with after-tax dollars, but qualified withdrawals are tax-free."
+    },
+    {
+      "term": "Tax-Deferred",
+      "definition": "Investment earnings such as interest, dividends, or capital gains that accumulate tax-free until the investor withdraws and takes possession of them."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which the general level of prices for goods and services is rising, eroding purchasing power. It's important to consider inflation when planning long-term investments."
+    }
+  ]
+}

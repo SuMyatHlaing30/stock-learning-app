@@ -1,0 +1,47 @@
+{
+  "id": "market_basics",
+  "title": "How the Stock Market Works",
+  "difficulty": "beginner",
+  "estimatedMinutes": 12,
+  "prerequisites": ["what_is_stock", "why_invest"],
+  "content": "<h2>How Does the Stock Market Actually Work?</h2><div class=\"simple-explanation\"><p>The stock market is essentially a marketplace where people buy and sell shares of companies. Think of it like a farmers market for company ownership instead of vegetables.</p></div><h3>Key Stock Market Components</h3><h4>Stock Exchanges</h4><p>These are the organized marketplaces where stocks are traded. The major U.S. exchanges include:</p><ul><li><strong>New York Stock Exchange (NYSE)</strong>: The largest exchange, founded in 1792</li><li><strong>NASDAQ</strong>: Known for technology stocks and electronic trading</li></ul><h4>Stock Symbols (Tickers)</h4><p>Every publicly traded company has a unique symbol. For example:</p><ul><li>AAPL = Apple</li><li>MSFT = Microsoft</li><li>AMZN = Amazon</li><li>JNJ = Johnson & Johnson</li></ul><h4>Stock Indexes</h4><p>Indexes track the performance of groups of stocks:</p><ul><li><strong>S&P 500</strong>: 500 large U.S. companies</li><li><strong>Dow Jones Industrial Average</strong>: 30 major U.S. companies</li><li><strong>NASDAQ Composite</strong>: Heavily weighted toward technology companies</li></ul><p>When the news says \"the market went up today,\" they're usually referring to one of these indexes.</p><h3>How Stock Prices Are Determined</h3><p>Stock prices are based on supply and demand - what buyers are willing to pay and what sellers are willing to accept.</p><p>Factors that influence stock prices include:</p><ul><li>Company performance and financial health</li><li>Future growth prospects</li><li>Industry trends</li><li>Economic conditions</li><li>Interest rates</li><li>News and events</li><li>Investor sentiment</li></ul><h3>How to Buy and Sell Stocks</h3><ol><li><strong>Open a Brokerage Account</strong>: Examples include Fidelity, Charles Schwab, Robinhood, TD Ameritrade</li><li><strong>Fund Your Account</strong>: Transfer money from your bank</li><li><strong>Research Stocks</strong>: Decide which companies you want to buy</li><li><strong>Place an Order</strong>: Tell your broker how many shares you want to buy or sell</li><li><strong>Monitor Your Investments</strong>: Keep track of your portfolio's performance</li></ol><h3>Types of Stock Orders</h3><ul><li><strong>Market Order</strong>: Buy or sell immediately at the current market price</li><li><strong>Limit Order</strong>: Buy or sell only at a specified price or better</li><li><strong>Stop Order</strong>: Becomes a market order when a specified price is reached</li></ul><h3>When Can You Trade?</h3><p>The main U.S. stock exchanges are open Monday to Friday, 9:30 AM to 4:00 PM Eastern Time, excluding market holidays.</p><h3>Primary vs. Secondary Markets</h3><ul><li><strong>Primary Market</strong>: Where companies first issue stocks (IPOs - Initial Public Offerings)</li><li><strong>Secondary Market</strong>: Where investors trade stocks with each other (what most people think of as \"the stock market\")</li></ul>",
+  "image": "/images/learning/stock-exchange.jpg",
+  "interactiveDemo": "market_simulator",
+  "glossaryTerms": ["stock exchange", "ticker", "index", "ipo", "market order", "limit order"],
+  "quiz": [
+    {
+      "question": "What determines a stock's price?",
+      "options": [
+        "The CEO of the company",
+        "The government",
+        "Supply and demand in the market",
+        "The stock exchange"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stock prices are determined by supply and demand - what buyers are willing to pay and what sellers are willing to accept."
+    },
+    {
+      "question": "What is a stock market index?",
+      "options": [
+        "A type of investment account",
+        "A measurement that tracks a group of stocks",
+        "A fee charged when buying stocks",
+        "The price of a specific company's stock"
+      ],
+      "correctIndex": 1,
+      "explanation": "A stock market index is a measurement that tracks the performance of a selected group of stocks, representing a particular market or segment."
+    },
+    {
+      "question": "What is the difference between a market order and a limit order?",
+      "options": [
+        "A market order is for international stocks, while a limit order is for domestic stocks",
+        "A market order executes immediately at the current price, while a limit order executes only at a specified price or better",
+        "A market order is free, while a limit order costs money",
+        "A market order is for buying stocks, while a limit order is for selling stocks"
+      ],
+      "correctIndex": 1,
+      "explanation": "A market order executes immediately at the current market price, while a limit order only executes at the price you specify (or better)."
+    }
+  ],
+  "nextTopic": "before_investing"
+}

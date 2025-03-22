@@ -1,0 +1,35 @@
+{
+  "id": "what_is_stock",
+  "title": "What Is a Stock?",
+  "difficulty": "beginner",
+  "estimatedMinutes": 8,
+  "prerequisites": [],
+  "content": "<h2>What Is a Stock?</h2><div class=\"simple-explanation\"><p>A stock represents partial ownership in a real company. When you buy a stock, you're purchasing a small piece of that company, which makes you a shareholder.</p><p>Think of it like a pizza cut into many slices. Each slice represents one share of stock. You might own one slice, while others own different amounts.</p></div><h3>Key Concepts</h3><ul><li><strong>Share</strong>: A single unit of ownership in a company</li><li><strong>Shareholder</strong>: Anyone who owns at least one share of a company</li><li><strong>Stock Market</strong>: Where stocks are bought and sold</li><li><strong>Stock Price</strong>: The current value of one share, which changes based on supply and demand</li></ul><h3>Why Companies Issue Stock</h3><p>Companies issue (sell) stock to raise money for:</p><ul><li>Growing their business</li><li>Developing new products</li><li>Hiring more employees</li><li>Buying other companies</li><li>Paying off debts</li></ul><h3>What Shareholders Get</h3><p>As a shareholder, you may receive:</p><ol><li><strong>Potential Profits</strong>: If the company grows and becomes more valuable, your stock may increase in value</li><li><strong>Dividends</strong>: Some companies share their profits with shareholders through regular payments</li><li><strong>Voting Rights</strong>: Shareholders often get to vote on important company decisions</li></ol><div class=\"example\"><h4>Real Example:</h4><p>If Apple has 16 billion shares outstanding and you buy 10 shares, you own 0.0000000625% of Apple Inc. While this is a tiny percentage, you're still a real owner of the company!</p></div>",
+  "image": "/images/learning/stock-ownership.jpg",
+  "glossaryTerms": ["stock", "share", "shareholder", "dividend", "company", "ownership"],
+  "quiz": [
+    {
+      "question": "What does owning a stock mean?",
+      "options": [
+        "You've loaned money to a company",
+        "You own part of the company",
+        "You're an employee of the company",
+        "You're a customer of the company"
+      ],
+      "correctIndex": 1,
+      "explanation": "When you own a stock, you actually own a small piece of the company itself."
+    },
+    {
+      "question": "Why do companies issue (sell) stock?",
+      "options": [
+        "To avoid paying taxes",
+        "To raise money for growth and operations",
+        "To reduce the number of employees",
+        "Because the law requires them to"
+      ],
+      "correctIndex": 1,
+      "explanation": "Companies issue stock primarily to raise capital (money) that they can use to grow, develop products, or fund operations."
+    }
+  ],
+  "nextTopic": "why_invest"
+}

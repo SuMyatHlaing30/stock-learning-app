@@ -1,0 +1,46 @@
+{
+  "id": "fundamental_analysis",
+  "title": "Fundamental Analysis",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 15,
+  "prerequisites": ["market_basics", "understanding_risk"],
+  "content": "<h2>Fundamental Analysis: Evaluating Stocks Based on Business Fundamentals</h2><div class=\"simple-explanation\"><p>Fundamental analysis is a method of evaluating stocks by examining the company's financial statements, management team, business model, competitive advantages, and the overall economy. It helps you determine if a stock is potentially undervalued or overvalued.</p></div><h3>Key Financial Statements</h3><h4>1. Income Statement</h4><p>The income statement shows a company's revenues, expenses, and profits over a specific period.</p><ul><li><strong>Revenue</strong>: Total money generated from sales</li><li><strong>Gross Profit</strong>: Revenue minus cost of goods sold</li><li><strong>Operating Income</strong>: Profit after operating expenses</li><li><strong>Net Income</strong>: Final profit after all expenses and taxes</li></ul><h4>2. Balance Sheet</h4><p>The balance sheet provides a snapshot of what a company owns (assets), what it owes (liabilities), and shareholder equity.</p><ul><li><strong>Assets</strong>: Resources owned by the company</li><li><strong>Liabilities</strong>: Debts and obligations</li><li><strong>Shareholders' Equity</strong>: Assets minus liabilities</li></ul><h4>3. Cash Flow Statement</h4><p>The cash flow statement shows how cash moves in and out of the business.</p><ul><li><strong>Operating Cash Flow</strong>: Cash generated from core business operations</li><li><strong>Investing Cash Flow</strong>: Cash used for investments in assets</li><li><strong>Financing Cash Flow</strong>: Cash from financing activities (debt, equity)</li></ul><h3>Key Financial Metrics and Ratios</h3><h4>Valuation Ratios</h4><ul><li><strong>P/E Ratio (Price-to-Earnings)</strong>: Stock price divided by earnings per share. Lower can indicate better value, but varies widely by industry and growth rate.</li><li><strong>P/B Ratio (Price-to-Book)</strong>: Stock price divided by book value per share. Useful for comparing financial and asset-heavy companies.</li><li><strong>P/S Ratio (Price-to-Sales)</strong>: Stock price divided by revenue per share. Helpful when companies aren't profitable yet.</li><li><strong>PEG Ratio (Price/Earnings to Growth)</strong>: P/E ratio divided by earnings growth rate. Considers both value and growth.</li></ul><h4>Profitability Ratios</h4><ul><li><strong>Gross Margin</strong>: Gross profit divided by revenue. Shows pricing power and production efficiency.</li><li><strong>Operating Margin</strong>: Operating income divided by revenue. Indicates operational efficiency.</li><li><strong>Net Profit Margin</strong>: Net income divided by revenue. Shows overall profitability.</li><li><strong>ROE (Return on Equity)</strong>: Net income divided by shareholders' equity. Measures how efficiently a company uses shareholder money.</li><li><strong>ROA (Return on Assets)</strong>: Net income divided by total assets. Shows how efficiently a company uses its assets.</li></ul><h4>Financial Health Ratios</h4><ul><li><strong>Current Ratio</strong>: Current assets divided by current liabilities. Measures short-term financial health.</li><li><strong>Debt-to-Equity Ratio</strong>: Total debt divided by shareholders' equity. Indicates financial leverage.</li><li><strong>Interest Coverage Ratio</strong>: EBIT divided by interest expenses. Shows ability to pay interest on debt.</li></ul><h3>Growth Metrics</h3><ul><li><strong>Revenue Growth</strong>: Year-over-year increase in sales</li><li><strong>Earnings Growth</strong>: Year-over-year increase in profits</li><li><strong>Dividend Growth</strong>: Year-over-year increase in dividend payments</li></ul><h3>Qualitative Factors</h3><p>Beyond numbers, fundamental analysis also considers:</p><ul><li><strong>Business Model</strong>: How the company makes money</li><li><strong>Competitive Advantage</strong>: What gives the company an edge over competitors</li><li><strong>Management Quality</strong>: Track record and capabilities of leadership</li><li><strong>Industry Trends</strong>: Growth prospects and challenges in the sector</li><li><strong>Economic Factors</strong>: Interest rates, inflation, economic growth</li></ul><h3>Fundamental Analysis Process</h3><ol><li><strong>Understand the Business</strong>: Learn what the company does and how it makes money</li><li><strong>Analyze Financial Statements</strong>: Review income statements, balance sheets, and cash flow statements</li><li><strong>Calculate Key Ratios</strong>: Evaluate valuation, profitability, and financial health</li><li><strong>Compare</strong>: Look at historical data and competitor metrics</li><li><strong>Research Qualitative Factors</strong>: Examine management, competitive advantages, and industry trends</li><li><strong>Determine Intrinsic Value</strong>: Estimate what you think the stock is truly worth</li><li><strong>Make a Decision</strong>: Compare intrinsic value to current market price</li></ol><h3>Common Fundamental Analysis Methods</h3><h4>Discounted Cash Flow (DCF)</h4><p>DCF estimates a company's intrinsic value based on projected future cash flows, discounted back to present value. It's considered one of the most thorough valuation methods but requires many assumptions about future growth.</p><h4>Comparative Analysis</h4><p>This method involves comparing a company's valuation metrics to similar companies, industry averages, or its own historical values to determine if it's undervalued or overvalued.</p><h3>Advantages of Fundamental Analysis</h3><ul><li>Provides deep understanding of the business</li><li>Helps identify quality companies for long-term investment</li><li>Can discover undervalued opportunities</li><li>Focuses on real business performance rather than market sentiment</li></ul><h3>Limitations of Fundamental Analysis</h3><ul><li>Time-consuming process</li><li>Historical data doesn't guarantee future performance</li><li>May miss market psychology and momentum factors</li><li>Financial statements can sometimes be manipulated</li></ul><div class=\"callout\"><p><strong>Remember</strong>: No single metric tells the whole story. Always use multiple metrics and qualitative factors to form a complete picture of a company's value and prospects.</p></div>",
+  "image": "/images/learning/fundamental-analysis.jpg",
+  "glossaryTerms": ["P/E ratio", "earnings per share", "balance sheet", "income statement", "cash flow", "intrinsic value", "DCF"],
+  "quiz": [
+    {
+      "question": "What is the P/E ratio used to measure?",
+      "options": [
+        "A company's debt level",
+        "How much investors are willing to pay for each dollar of earnings",
+        "The growth rate of a company",
+        "A company's dividend yield"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Price-to-Earnings (P/E) ratio measures how much investors are willing to pay for each dollar of a company's earnings. It's calculated by dividing the share price by earnings per share."
+    },
+    {
+      "question": "Which financial statement shows a company's assets, liabilities, and shareholders' equity?",
+      "options": [
+        "Income Statement",
+        "Cash Flow Statement",
+        "Balance Sheet",
+        "Annual Report"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Balance Sheet provides a snapshot of a company's financial position at a specific point in time, showing what it owns (assets), what it owes (liabilities), and the shareholders' equity."
+    },
+    {
+      "question": "What does a high debt-to-equity ratio typically indicate?",
+      "options": [
+        "The company has strong profit margins",
+        "The company is using more debt financing relative to equity",
+        "The company pays high dividends",
+        "The company has significant cash reserves"
+      ],
+      "correctIndex": 1,
+      "explanation": "A high debt-to-equity ratio indicates that a company is using relatively more debt financing compared to equity financing, which may suggest higher financial leverage and risk."
+    }
+  ],
+  "nextTopic": "technical_analysis"
+}

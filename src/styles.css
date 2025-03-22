@@ -847,3 +847,148 @@ body {
     font-size: 16px; /* Prevents iOS zoom on focus */
   }
 }
+/* Progress Bar */
+.progress-bar-container {
+  width: 100%;
+  height: 20px;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 10px 0;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background-color: #4caf50;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* Quiz Module */
+.quiz-module {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.question-progress {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.question h3 {
+  margin-bottom: 15px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.option:hover {
+  background-color: #e9e9e9;
+}
+
+.option.selected {
+  background-color: #e3f2fd;
+  border-color: #2196f3;
+}
+
+.quiz-controls {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.quiz-results {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f8ff;
+  border-radius: 8px;
+}
+
+/* Loading Spinner */
+.loading-spinner-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+.loading-spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-left-color: #09f;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loading-message {
+  margin-top: 15px;
+  color: #666;
+}
+
+/* Interactive Demo */
+.interactive-demo {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.interactive-demo h3 {
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.demo-container {
+  padding: 20px;
+  min-height: 200px;
+}
+
+.demo-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  color: #666;
+  font-style: italic;
+}

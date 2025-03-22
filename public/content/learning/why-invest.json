@@ -1,0 +1,36 @@
+{
+  "id": "why_invest",
+  "title": "Why Invest in Stocks?",
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "prerequisites": ["what_is_stock"],
+  "content": "<h2>Why Should You Consider Investing in Stocks?</h2><div class=\"simple-explanation\"><p>Stocks have historically provided higher returns than savings accounts, bonds, or other investments over long periods. While there are risks involved, stocks offer a way to potentially grow your money at a faster rate.</p></div><h3>Main Reasons to Invest in Stocks</h3><ol><li><strong>Beat Inflation</strong>: Inflation causes money to lose purchasing power over time. Stocks have historically grown faster than inflation, helping your money maintain and increase its value.</li><li><strong>Build Wealth</strong>: For long-term goals like retirement, education funding, or major purchases.</li><li><strong>Earn Passive Income</strong>: Through dividends paid by some companies.</li><li><strong>Own Businesses You Believe In</strong>: Invest in companies whose products or mission you support.</li></ol><h3>The Power of Compounding</h3><p>Compounding happens when your investment returns generate more returns. This is like a snowball effect - as your investment grows, the growth itself accelerates.</p><div class=\"example\"><p>Example: $1,000 invested with 7% annual returns</p><ul><li>After 10 years: $1,967</li><li>After 20 years: $3,870</li><li>After 30 years: $7,612</li></ul><p>The longer you stay invested, the more powerful this effect becomes!</p></div><h3>Stock Returns vs. Other Investments</h3><p>Historical average annual returns (before inflation):</p><ul><li>Stocks: ~7-10%</li><li>Bonds: ~3-5%</li><li>Savings Accounts: ~0.5-2%</li></ul><h3>Common Myths About Stock Investing</h3><div class=\"myth\"><p><strong>Myth:</strong> You need a lot of money to start investing.</p><p><strong>Reality:</strong> Many brokerages allow you to start with as little as $5 and buy fractional shares.</p></div><div class=\"myth\"><p><strong>Myth:</strong> Investing in stocks is like gambling.</p><p><strong>Reality:</strong> While short-term trading can be speculative, long-term investing in quality companies or diversified funds is based on fundamental business growth, not pure chance.</p></div><div class=\"myth\"><p><strong>Myth:</strong> You need to be a financial expert.</p><p><strong>Reality:</strong> While knowledge helps, beginners can start with simple, diversified investments that require minimal expertise.</p></div><h3>Important Considerations</h3><ul><li>Stocks can be volatile in the short term</li><li>Historical returns don't guarantee future results</li><li>Investing should be viewed as long-term (5+ years)</li><li>Diversification helps manage risk</li></ul>",
+  "image": "/images/learning/compound-growth.jpg",
+  "videoUrl": "/videos/learning/power-of-compounding.mp4",
+  "glossaryTerms": ["inflation", "compound interest", "returns", "volatility"],
+  "quiz": [
+    {
+      "question": "What is one primary advantage of stock investing over keeping money in a savings account?",
+      "options": [
+        "Zero risk",
+        "Government guarantees",
+        "Historically higher long-term returns",
+        "Immediate access to funds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stocks have historically provided higher returns over long time periods compared to savings accounts, though they come with more risk."
+    },
+    {
+      "question": "What is compounding in investing?",
+      "options": [
+        "When you add more money to your investments each month",
+        "When your investment returns generate their own returns",
+        "When companies merge together",
+        "When you diversify across multiple investments"
+      ],
+      "correctIndex": 1,
+      "explanation": "Compounding occurs when the returns your investment generates begin to generate returns themselves, creating an accelerating growth effect over time."
+    }
+  ],
+  "nextTopic": "market_basics"
+}
